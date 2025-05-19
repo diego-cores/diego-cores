@@ -13,7 +13,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=diego-cores&locale=en&mode=weekly&theme=graywhite&hide_border=false&border_radius=23&order=3" height="100" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diego-cores&locale=es&hide_title=true&layout=compact&border_radius=23&card_width=320&langs_count=3&theme=graywhite&hide_border=false&order=2" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diego-cores&locale=es&hide_title=true&layout=compact&border_radius=10&card_width=320&langs_count=3&theme=graywhite&hide_border=false&order=2" height="100" alt="languages graph"  />
 </div>
 
 *<p align="center">⭐ Thanks for visiting my profile. I'm creating something amazing, line by line!</p>*
