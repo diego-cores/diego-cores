@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">👋 ¡Hola!</h1>
 
-<!--
-**diego-cores/diego-cores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diego-Cores/Diego-Cores/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diego-Cores/Diego-Cores/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Diego-Cores/Diego-Cores/output/pacman-contribution-graph.svg">
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="center">🧠 Sobre mí<br><br>- 💻 Actualmente desarrollando proyectos personales en Python.<br>- 📊 Me gusta automatizar, analizar datos y construir herramientas desde cero.<br>- 🎯 Buscando siempre mejorar mis habilidades y dejar una marca creativa.</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Diego-Cores&locale=es&mode=weekly&theme=graywhite&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-Cores&locale=es&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+*<p align="center">⭐ Gracias por visitar mi perfil. ¡Estoy construyendo algo increíble, una línea de código a la vez!</p>*
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+</div>
+
+###
