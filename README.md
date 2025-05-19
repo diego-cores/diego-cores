@@ -3,9 +3,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diego-Cores/Diego-Cores/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diego-Cores/Diego-Cores/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Diego-Cores/Diego-Cores/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diego-cores/diego-cores/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diego-cores/diego-cores/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diego-cores/diego-cores/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
@@ -17,8 +17,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Diego-Cores&locale=es&mode=weekly&theme=graywhite&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diego-Cores&locale=es&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=diego-cores&locale=es&mode=weekly&theme=graywhite&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diego-cores&locale=es&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
