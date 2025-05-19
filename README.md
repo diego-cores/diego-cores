@@ -12,8 +12,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=diego-cores&locale=es&mode=weekly&theme=graywhite&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diego-cores&locale=es&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=diego-cores&locale=es&mode=weekly&theme=graywhite&hide_border=false&border_radius=10&order=3" height="100" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diego-cores&locale=es&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=graywhite&hide_border=false&order=2" height="100" alt="languages graph"  />
 </div>
 
 *<p align="center">⭐ Gracias por visitar mi perfil. ¡Estoy construyendo algo increíble, una línea de código a la vez!</p>*
