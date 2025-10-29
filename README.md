@@ -1,13 +1,14 @@
-<h1 align="center">👋 ¡Hello!</h1>
+<h1 align="center">👋 Hello!</h1>
+<p align="center">Python developer | Data automation & analysis | Personal projects</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diego-cores/diego-cores/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diego-cores/diego-cores/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diego-cores/diego-cores/output/pacman-contribution-graph.svg">
-</picture>
+## <p align="center">🧠 About Me</p>
 
-## <p align="center">🧠 About me</p>
-<p align="center">- 💻 Currently developing personal projects in Python.<br>- 📊 I like to automate, analyze data and build tools from scratch.<br>- 🎯 Always looking to improve my skills and leave a creative mark.</p>
+<br clear="both">
+<p align="center">
+- 💻 Developing personal projects in <strong>Python</strong>.<br>
+- 📊 Focused on automating tasks, analyzing data, and building tools from scratch.<br>
+- ⚙️ Improving my skills in data processing, scripting, and problem-solving.
+</p>
 
 <br clear="both">
 
@@ -16,14 +17,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diego-cores&locale=es&hide_title=true&layout=compact&border_radius=10&card_width=320&langs_count=3&theme=graywhite&hide_border=false&order=2" height="100" alt="languages graph"  />
 </div>
 
-*<p align="center">⭐ Thanks for visiting my profile. I'm creating something amazing, line by line!</p>*
-
 <hr>
 
+## <p align="center">💻 Tech Stack</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+---
+
+<div align="center">
+  <p>🐦 Follow me on X: <a href="https://x.com/Diego44183485" target="_blank">@Diego</a></p>
 </div>
