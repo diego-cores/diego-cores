@@ -14,7 +14,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=diego-cores&locale=en&mode=weekly&theme=graywhite&hide_border=false&border_radius=23&order=3" height="100" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diego-cores&locale=es&hide_title=true&layout=compact&border_radius=10&card_width=320&langs_count=3&theme=graywhite&hide_border=false&order=2" height="100" alt="languages graph"  />
 </div>
 
 <hr>
@@ -26,6 +25,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+</div>
+
+<br clear="both">
+
+---
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=diego-cores&locale=es&hide_title=true&layout=compact&border_radius=10&card_width=100&langs_count=3&theme=graywhite&hide_border=false&order=2" height="100" alt="languages graph"  />
 </div>
 
 ---
