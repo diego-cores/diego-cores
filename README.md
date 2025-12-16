@@ -16,8 +16,6 @@
   <img src="https://streak-stats.demolab.com?user=diego-cores&locale=en&mode=weekly&theme=graywhite&hide_border=false&border_radius=23&order=3" height="100" alt="streak graph"  />
 </div>
 
-<hr>
-
 ## <p align="center">💻 Tech Stack</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -28,8 +26,6 @@
 </div>
 
 <br clear="both">
-
----
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diego-cores&locale=es&hide_title=true&layout=compact&border_radius=10&card_width=100&langs_count=3&theme=graywhite&hide_border=false&order=2" height="100" alt="languages graph"  />
