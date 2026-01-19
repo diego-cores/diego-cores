@@ -1,23 +1,27 @@
-<h1 align="center">👋 Hello!</h1>
-<p align="center">Python developer | Data automation & analysis | Personal projects</p>
+# Diego Cores
+[![Wakatime](https://wakatime.com/badge/user/4796cbe0-3e52-4203-bf08-5b6626a2a690.svg?style=default)](#)
+[![NoJS](https://img.shields.io/badge/Nope-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
-## <p align="center">🧠 About Me</p>
+### Python developer | Data automation & analysis | Personal projects
 
-<br clear="both">
-<p align="center">
+---
+
+## 🧠 About Me
+
 - 💻 Developing personal projects in <strong>Python</strong>.<br>
 - 📊 Focused on automating tasks, analyzing data, and building tools from scratch.<br>
 - ⚙️ Improving my skills in data processing, scripting, and problem-solving.
-</p>
 
-<br clear="both">
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=diego-cores&locale=en&mode=weekly&theme=graywhite&hide_border=false&border_radius=23&order=3" height="100" alt="streak graph"  />
-</div>
+## 💻 Tech Stack
 
-## <p align="center">💻 Tech Stack</p>
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
@@ -25,14 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
 
-<br clear="both">
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=diego-cores&locale=es&hide_title=true&layout=compact&border_radius=10&card_width=100&langs_count=3&theme=graywhite&hide_border=false&order=2" height="100" alt="languages graph"  />
-</div>
-
 ---
 
-<div align="center">
-  <p>🐦 Follow me on X: <a href="https://x.com/Diego44183485" target="_blank">@Diego</a></p>
-</div>
+🐦 Follow me on X: <a href="https://x.com/Diego44183485" target="_blank">@Diego</a>
